@@ -1,5 +1,5 @@
 # これは何をするやつ？
-[English menu](./README_en.md)
+[English](./README_en.md)
 
 FAT32でフォーマットされたSDカードなどを使う場合、4ギガバイト以上のmp4ファイルを分割しなければいけない時に使います。
 
