@@ -2,7 +2,7 @@
 require 'time'
 require 'filesize'
 
-DEBUG=true
+DEBUG=false
 LIMIT_GB=3.8
 
 class Main
